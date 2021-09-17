@@ -1,0 +1,9 @@
+#dogButton{
+    width: 15vw;
+    height: 5vh;
+}
+
+#dogImage {
+    max-width: 20vh;
+    max-height: 20vh;
+}
